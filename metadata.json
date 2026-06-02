@@ -1,0 +1,7 @@
+{
+  "name": "Aura (灵光) Visual Director",
+  "description": "Aura (灵光) 是一款高端 AI 视觉导演引擎。通过独有的“本我一致性保护”技术，在多种艺术风格中精准守住用户的真实韵味，拒绝虚假，只为记录独一无二的你。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
